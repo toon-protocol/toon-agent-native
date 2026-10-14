@@ -13,4 +13,6 @@ Where Agent-Native (Builder.io's open-source TypeScript agent framework) and TOO
 - *Paying*: an Agent-Native agent pays TOON apps (relay, store, gas-station, swap) through an agent node.
 - *Reaching*: TOON gains reach into Agent-Native's agent-to-agent world (A2A, Dispatch) next to the NIP-90 job market.
 
+**Factory** — always TOON's factory job market (NIP-90 kinds 5097/6097/7000). Agent-Native's "Factory" template is unrelated; call it "the Agent-Native Factory template" if it comes up.
+
 **Action** — Agent-Native's term: one typed capability that the agent calls as a tool and the UI calls from code. Not a TOON term; TOON's unit of payment is the packet, not the Action.
